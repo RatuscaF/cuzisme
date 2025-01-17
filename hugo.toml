@@ -1,0 +1,10 @@
+baseURL = 'https://RatuscaF.github.io/cuzisme'
+languageCode = 'en-us'
+title = 'Cuzisme'
+theme = 'ananke'
+
+[params]
+  featured_image = "/images/books.jpg"
+  background_color_class = "bg-black"
+  featured_image_class = "cover bg-center"
+  cover_dimming_class = "bg-black-60"
